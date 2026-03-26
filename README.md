@@ -4,5 +4,4 @@
 My name is Jake, I'm a computer science major with a cybersecurity minor. This is my final year at chico.
 
 # UX Journal
-https://github.com/ChicoState/ux-jrbaartman/new/main
-
+[https://github.com/ChicoState/ux-jrbaartman/blob/main/first-journal]
