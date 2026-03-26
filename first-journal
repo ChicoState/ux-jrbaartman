@@ -1,17 +1,39 @@
 # Sent to Print, Probably?
 
-One time at my community college, I was on my way to meet some friends after school when I realized I still needed to print a one page worksheet for an assignment. My goal was pretty simple: send the file from my laptop, stop by the library printer, grab the page, and go. I assumed it would be quick and easy. Instead, it turned into one of those campus problems that gets way more stressful than it should.
+One time at my community college, I was on my way to meet some friends after school when I realized I still needed to print a one page worksheet for an assignment. 
+My goal was pretty simple: send the file from my laptop, stop by the library printer, grab the page, and go. I assumed it would be quick and easy. 
+Instead, it turned into one of those campus problems that gets way more stressful than it should.
 
-I opened the campus printing website, which leads to an external page, chose my Valencia campus, uploaded my PDF, and clicked print. After that, the page changed, but not in a way that made me feel confident I was actually done. I expected some kind of big confirmation message telling me my file had gone through. Instead, there was just a small message near the top of the page and a bunch of job details that all looked equally important. I kind of just stared at the screen for a second, trying to figure out whether my document had actually been sent or if I was supposed to do something else.
+I opened the campus printing website, which leads to an external page, chose my Valencia campus, uploaded my PDF, and clicked print. 
+After that, the page changed, but not in a way that made me feel confident I was actually done. I expected some kind of big confirmation message telling me my file had gone through. 
+Instead, there was just a small message near the top of the page and a bunch of job details that all looked equally important. 
+I kind of just stared at the screen for a second, trying to figure out whether my document had actually been sent or if I was supposed to do something else.
 
-This is where the problem with "feedback" showed up. By "feedback", I mean the way a system lets you know your action worked. A good design should make that obvious right away. In this case, the website technically responded, but it did not clearly tell me the one thing I actually cared about: was my document ready to print or not, and which printer it was?
+This is where the problem with "feedback" showed up. By "feedback", I mean the way a system lets you know your action worked. 
+A good design should make that obvious right away. In this case, the website technically responded, 
+but it did not clearly tell me the one thing I actually cared about: was my document ready to print or not, and which printer it was?
 
-I decided to walk to the printer anyway. Once I got there, I logged in and expected my file to show up immediately. That expectation came from my "mental model", which is the picture I already had in my head of how the printing is supposed to work. Normally, when you hit print, your document either starts printing or clearly shows up in a queue. I figured campus printing would work the same way, just with an extra login step. But when I signed in and did not immediately see my file, I started wondering if I picked the wrong printer, uploaded the wrong file, or somehow missed a hidden step.
+I decided to walk to the printer anyway. Once I got there, I logged in and expected my file to show up immediately. 
+That expectation came from my "mental model", which is the picture I already had in my head of how the printing is supposed to work. 
+Normally, when you hit print, your document either starts printing or clearly shows up in a queue. 
+I figured campus printing would work the same way, just with an extra login step. 
+But when I signed in and did not immediately see my file, I started wondering if I picked the wrong printer, uploaded the wrong file, or somehow missed a hidden step.
 
-I went back to my laptop, refreshed the page, and looked through everything again. After a little while, I noticed a tiny label that suggested the job had processed, but it was buried in a bunch of other text that was not very helpful. That points to a "visibility issue". "Visibility", this is how easy it is to find the most important information on the screen. When someone is in a rush, they should not have to scan around the page hunting for clues. The site should make the important message stand out immediately.
+I went back to my laptop, refreshed the page, and looked through everything again. 
+After a little while, I noticed a tiny label that suggested the job had processed, but it was buried in a bunch of other text that was not very helpful. 
+That points to a "visibility issue". "Visibility", this is how easy it is to find the most important information on the screen. 
+When someone is in a rush, they should not have to scan around the page hunting for clues. The site should make the important message stand out immediately.
 
-Eventually, I realized I printed it to a printer in a different room, and I was able to get to it and print the worksheet. So technically, everything worked out. I got my paper in alright time. But the whole thing still felt frustrating because I never really trusted the system while I was using it. The printer was not the problem by itself. The real problem was the uncertainty between clicking print and seeing the file actually show up, and seeing where it was sent to.
+Eventually, I realized I printed it to a printer in a different room, and I was able to get to it and print the worksheet. 
+So technically, everything worked out. I got my paper in alright time. 
+But the whole thing still felt frustrating because I never really trusted the system while I was using it. 
+The printer was not the problem by itself. The real problem was the uncertainty between clicking print and seeing the file actually show up, and seeing where it was sent to.
 
-To be fair, not everything about the experience was bad, you could say it was my fault anyway. Uploading the file itself was easy enough, and the printer login screen was pretty straightforward. But those good parts got overshadowed by the fact that the system left me guessing about information during the most important part of the process.
+To be fair, not everything about the experience was bad, you could say it was my fault anyway. 
+Uploading the file itself was easy enough, and the printer login screen was pretty straightforward. 
+But those good parts got overshadowed by the fact that the system left me guessing about information during the most important part of the process.
 
-A better design would make that middle step way clearer. Right after submitting the file, the site should show a large message that says something like, “Your document was sent successfully and is ready to release at the library printer.” It could also show the file name, number of pages, and maybe a short loading message if it takes a few seconds to appear. That would improve "feedback" and "visibility", and it would better match the user’s "mental model" of printing as something that should feel quick, clear, and reliable.
+A better design would make that middle step way clearer. 
+Right after submitting the file, the site should show a large message that says something like, “Your document was sent successfully and is ready to release at the library printer.” 
+It could also show the file name, number of pages, and maybe a short loading message if it takes a few seconds to appear. 
+That would improve "feedback" and "visibility", and it would better match the user’s "mental model" of printing as something that should feel quick, clear, and reliable.
